@@ -1,0 +1,13 @@
+C:\Programming\Projects\WorkProjects\RouteFormatter\bin\Debug\netcoreapp3.1\RouteFormatter.exe
+C:\Programming\Projects\WorkProjects\RouteFormatter\bin\Debug\netcoreapp3.1\RouteFormatter.deps.json
+C:\Programming\Projects\WorkProjects\RouteFormatter\bin\Debug\netcoreapp3.1\RouteFormatter.runtimeconfig.json
+C:\Programming\Projects\WorkProjects\RouteFormatter\bin\Debug\netcoreapp3.1\RouteFormatter.runtimeconfig.dev.json
+C:\Programming\Projects\WorkProjects\RouteFormatter\bin\Debug\netcoreapp3.1\RouteFormatter.dll
+C:\Programming\Projects\WorkProjects\RouteFormatter\bin\Debug\netcoreapp3.1\RouteFormatter.pdb
+C:\Programming\Projects\WorkProjects\RouteFormatter\obj\Debug\netcoreapp3.1\RouteFormatter.csprojAssemblyReference.cache
+C:\Programming\Projects\WorkProjects\RouteFormatter\obj\Debug\netcoreapp3.1\RouteFormatter.csproj.CoreCompileInputs.cache
+C:\Programming\Projects\WorkProjects\RouteFormatter\obj\Debug\netcoreapp3.1\RouteFormatter.AssemblyInfoInputs.cache
+C:\Programming\Projects\WorkProjects\RouteFormatter\obj\Debug\netcoreapp3.1\RouteFormatter.AssemblyInfo.cs
+C:\Programming\Projects\WorkProjects\RouteFormatter\obj\Debug\netcoreapp3.1\RouteFormatter.dll
+C:\Programming\Projects\WorkProjects\RouteFormatter\obj\Debug\netcoreapp3.1\RouteFormatter.pdb
+C:\Programming\Projects\WorkProjects\RouteFormatter\obj\Debug\netcoreapp3.1\RouteFormatter.genruntimeconfig.cache

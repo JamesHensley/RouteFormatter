@@ -21,9 +21,9 @@ namespace Models {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("<Placemark>");
             sb.AppendLine($"    <name>{timestamp}</name>");
-            sb.AppendLine($"    <timestamp>");
+            sb.AppendLine("    <timestamp>");
             sb.AppendLine($"        <when>{xx.ToString("o")}</when>");
-            sb.AppendLine($"    </timestamp>");
+            sb.AppendLine("    </timestamp>");
             sb.AppendLine("    <Point>");
             sb.AppendLine($"        <coordinates>{longitude},{latitude},{elevation}</coordinates>");
             sb.AppendLine("    </Point>");
@@ -33,9 +33,6 @@ namespace Models {
         }
 
         public string ToCSV() {
-            var xx = epoch.AddSeconds(timestamp);
-            
-            // return $"\"{xx.ToString("o")}\",\"{longitude}\",\"{latitude}\"";
             return $"\"{pointName}\",\"{timestamp}\",\"{longitude}\",\"{latitude}\"";
         }
     }
